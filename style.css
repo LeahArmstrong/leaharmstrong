@@ -20,6 +20,7 @@ body {
   width: 100%;
   font-family: Roboto;
   font-weight: 400;
+  overflow-x: hidden;
 }
 
 .rotate {
